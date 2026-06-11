@@ -1,0 +1,117 @@
+
+========================================================================================================================
+File Design Information:
+
+Date:       20.06.23
+Time:       08:37
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment             Layer       Footprint               Center-X(mm) Center-Y(mm) Rotation 
+R33        n.b.                TopLayer    RESC2013X60X35NL10T20   8,3000       36,4000      270      
+P6         TSW-103-08-G-D      TopLayer    SMTC-TSW-103-08-X-D     33,2700      46,0000      90       
+R18        510R                TopLayer    RESC2013X60X35NL10T20   24,3000      32,2000      270      
+R32        1k                  TopLayer    RESC2013X60X35NL10T20   39,3000      0,7000       270      
+R31        10k                 TopLayer    RESC2013X60X35NL10T20   37,6000      4,0000       90       
+R30        1k                  TopLayer    RESC2013X60X35NL10T20   42,1000      0,8000       270      
+R29        10k                 TopLayer    RESC2013X60X35NL10T20   40,7000      4,0000       90       
+R28        1k                  TopLayer    RESC2013X60X35NL10T20   44,9000      0,8000       270      
+R27        10k                 TopLayer    RESC2013X60X35NL10T20   43,5000      4,0000       90       
+R21        1k                  TopLayer    RESC2013X60X35NL10T20   47,6000      0,8000       270      
+R20        10k                 TopLayer    RESC2013X60X35NL10T20   46,3000      4,0000       90       
+R19        510R                TopLayer    RESC2013X60X35NL10T20   16,7000      55,0000      0        
+J2         615008137421        BottomLayer 615008137421            8,2300       49,5500      90       
+D9         MMSZ3V6T1G          TopLayer    ONSC-SOD-123-2-425-04_V 40,7000      10,8000      90       
+D8         MMSZ3V6T1G          TopLayer    ONSC-SOD-123-2-425-04_V 43,6000      10,8000      90       
+D7         MMSZ3V6T1G          TopLayer    ONSC-SOD-123-2-425-04_V 46,4000      10,8000      90       
+D6         MMSZ3V6T1G          TopLayer    ONSC-SOD-123-2-425-04_V 49,3000      10,8000      90       
+C19        1uF                 TopLayer    FP-C0805C-DN-MFG        39,3000      7,0000       90       
+C18        1uF                 TopLayer    FP-C0805C-DN-MFG        42,1000      7,0000       90       
+C17        1uF                 TopLayer    FP-C0805C-DN-MFG        44,9000      7,0000       90       
+C16        1uF                 TopLayer    FP-C0805C-DN-MFG        47,6000      7,0000       90       
+F2         01020071Z           BottomLayer FP-102-MFG              16,0000      8,5000       270      
+C14        1uF                 TopLayer    FP-CGA3E-0_3-0_1-IPC_A  26,1000      32,3000      90       
+R17        N.B.                TopLayer    RESC2013X60X35NL10T20   62,5000      -3,4000      0        
+R16        4k7                 TopLayer    RESC2013X60X35NL10T20   24,8000      24,1000      180      
+R15        4k7                 TopLayer    RESC2013X60X35NL10T20   33,0000      13,3000      0        
+R14        4k7                 TopLayer    RESC2013X60X35NL10T20   31,6000      9,7000       0        
+R13        4k7                 TopLayer    RESC2013X60X35NL10T20   28,7000      13,3000      180      
+R12        n.b.                TopLayer    RESC2013X60X35NL10T20   33,0000      15,0000      180      
+R11        n.b.                TopLayer    RESC2013X60X35NL10T20   31,6000      11,4000      180      
+R10        n.b.                TopLayer    RESC2013X60X35NL10T20   28,7000      15,2000      0        
+J1_2       39531-1002          BottomLayer FP-39531-1002-MFG       56,8500      9,5000       270      
+U3         LM7805              TopLayer    FAIR-TO-220-3           12,2000      -7,0000      270      
+U2         SN74LVC2T45DCUR     TopLayer    FP-DCU0008A-IPC_C       35,6000      21,9000      270      
+R35        4k7                 TopLayer    RESC2013X60X35NL10T20   27,3000      22,3000      90       
+R34        4k7                 TopLayer    RESC2013X60X35NL10T20   25,2000      21,3000      90       
+R5         1k                  TopLayer    RESC2013X60X35NL10T20   30,3000      36,7000      270      
+IC1        ATSAMD21G18A-48     TopLayer    TQFP48-Atmel            36,5000      29,5000      0        
+Y1         ABS06-32.768KHZ-9-T TopLayer    FP-ABS06-MFG            28,2000      32,3000      90       
+U4         MCP1603T-330I/OS    TopLayer    FP-C04-128-MFG          16,6000      16,8000      90       
+U1         CAT24C512WI-GT3     TopLayer    FP-751BD-01-IPC_C       31,5000      20,4000      90       
+SW1        FSMSM               TopLayer    TECO-FSMSM-2_V          45,6000      40,8000      180      
+R26        N.B.                TopLayer    RESC2013X60X35NL10T20   28,1000      40,7000      0        
+R25        N.B.                TopLayer    RESC2013X60X35NL10T20   28,1000      42,9000      0        
+R24        200k                TopLayer    RESC2013X60X35NL10T20   19,0780      40,5000      90       
+R23        510R                TopLayer    RESC2013X60X35NL10T20   16,8780      42,9000      270      
+R22        510R                TopLayer    RESC2013X60X35NL10T20   21,0000      37,2000      180      
+R9         4k7                 TopLayer    RESC2013X60X35NL10T20   40,8000      34,7000      90       
+R8         510R                TopLayer    RESC2013X60X35NL10T20   40,8000      37,9000      90       
+R7         39R                 TopLayer    RESC2013X60X35NL10T20   42,7000      36,5000      90       
+R6         1M                  TopLayer    RESC2013X60X35NL10T20   53,0000      51,3000      0        
+R4         4k7                 TopLayer    RESC2013X60X35NL10T20   28,0000      26,8000      180      
+R3         510R                TopLayer    RESC2013X60X35NL10T20   16,7000      52,4000      0        
+R2_4       1k                  TopLayer    RESC2013X60X35NL10T20   61,7000      39,7000      90       
+R2_3       1k                  TopLayer    RESC2013X60X35NL10T20   61,5000      25,7000      90       
+R2_2       1k                  TopLayer    RESC2013X60X35NL10T20   61,4000      11,1000      90       
+R2_1       1k                  TopLayer    RESC2013X60X35NL10T20   61,7000      53,7000      90       
+R1_4       10k                 TopLayer    RESC2013X60X35NL10T20   65,7000      39,7000      90       
+R1_3       10k                 TopLayer    RESC2013X60X35NL10T20   65,9000      25,8000      90       
+R1_2       10k                 TopLayer    RESC2013X60X35NL10T20   64,8000      10,2000      0        
+R1_1       10k                 TopLayer    RESC2013X60X35NL10T20   66,1000      51,0000      0        
+P5         TSW-103-08-G-D      TopLayer    SMTC-TSW-103-08-X-D     49,1300      24,7000      90       
+P4         TSW-103-08-G-D      TopLayer    SMTC-TSW-103-08-X-D     33,3000      55,8700      180      
+P3         1755752             BottomLayer PHOE-1755752-4_V        4,9000       21,1200      90       
+L4         SRN6045-4R7Y        TopLayer    BOUR-SRN6045_V          17,6000      22,6000      0        
+L1         74279203            TopLayer    SMD-0805                25,0000      2,7000       90       
+J4         618009231221        BottomLayer 618009231221            42,1150      -5,1800      180      
+J3         Mini-USB            TopLayer    651305142821            45,0000      53,9475      180      
+J1_4       39531-1002          BottomLayer FP-39531-1002-MFG       57,2000      38,0400      270      
+J1_3       39531-1002          BottomLayer FP-39531-1002-MFG       57,0000      24,0400      270      
+J1_1       39531-1002          BottomLayer FP-39531-1002-MFG       57,2000      52,0400      270      
+F1         01020071Z           BottomLayer FP-102-MFG              16,0000      32,0000      90       
+D5         S1M                 TopLayer    FP-403AE-MFG            22,5000      7,5000       90       
+D4         SMAJ6.0A-E3/5A      TopLayer    VISH-DO-214AC-2_M       22,3780      41,7000      270      
+D3         USBLC6-2SC6         TopLayer    STM-SOT23-6L_V          43,7000      45,8500      90       
+D2         S1M                 TopLayer    FP-403AE-MFG            47,4000      33,7000      270      
+D1_4       MMSZ3V6T1G          TopLayer    ONSC-SOD-123-2-425-04_V 65,7000      35,3000      270      
+D1_3       MMSZ3V6T1G          TopLayer    ONSC-SOD-123-2-425-04_V 65,9000      21,3000      270      
+D1_2       MMSZ3V6T1G          TopLayer    ONSC-SOD-123-2-425-04_V 62,7000      6,9000       270      
+D1_1       MMSZ3V6T1G          TopLayer    ONSC-SOD-123-2-425-04_V 65,2000      47,7000      270      
+C32        10uF                TopLayer    CAPC2013X140X45NL15T25  19,1000      17,1000      270      
+C31        10uF                TopLayer    CAPC2013X140X45NL15T25  13,6000      16,0000      90       
+C30        100nF               TopLayer    FP-CGA3E-0_3-0_1-IPC_A  21,1000      17,1000      270      
+C29        100nF               TopLayer    FP-CGA3E-0_3-0_1-IPC_A  20,0000      14,3000      0        
+C27        10uF                TopLayer    CAPC2013X140X45NL15T25  10,7000      1,9000       0        
+C26        100nF               TopLayer    FP-CGA3E-0_3-0_1-IPC_A  10,6000      3,9000       0        
+C25        10uF                TopLayer    CAPC2013X140X45NL15T25  20,5000      0,1000       90       
+C24        100nF               TopLayer    FP-CGA3E-0_3-0_1-IPC_A  22,5000      0,0000       90       
+C22        33pF                TopLayer    FP-CC0603-0_9-IPC_C     16,8000      45,8000      270      
+C21        10uF                TopLayer    CAPC2013X140X45NL15T25  37,2000      18,3000      180      
+C13        100nF               TopLayer    FP-CGA3E-0_3-0_1-IPC_A  32,1000      37,7000      90       
+C12        100nF               TopLayer    FP-CGA3E-0_3-0_1-IPC_A  27,8750      29,7000      180      
+C11        1uF                 TopLayer    FP-CGA3E-0_3-0_1-IPC_A  36,2000      37,3000      90       
+C10        10uF                TopLayer    FP-T491B106K016AT-MFG   41,1000      21,3000      90       
+C9         1uF                 TopLayer    FP-CGA3E-0_3-0_1-IPC_A  37,9000      22,1000      270      
+C8         1uF                 TopLayer    FP-CGA3E-0_3-0_1-IPC_A  37,5000      44,5000      90       
+C7         100nF               TopLayer    FP-CGA3E-0_3-0_1-IPC_A  34,2000      37,7000      90       
+C6         1uF                 TopLayer    FP-CGA3E-0_3-0_1-IPC_A  42,8000      33,1000      270      
+C5         100nF               TopLayer    FP-CGA3E-0_3-0_1-IPC_A  38,2000      37,3250      90       
+C4         1uF                 TopLayer    FP-CGA3E-0_3-0_1-IPC_A  37,1000      51,4000      180      
+C3         12pF                TopLayer    FP-C0603C-CF-MFG        30,5000      31,0000      90       
+C2         12pF                TopLayer    FP-C0603C-CF-MFG        30,4000      33,1000      180      
+C1_4       1uF                 TopLayer    FP-C0805C-DN-MFG        61,7000      36,2000      270      
+C1_3       1uF                 TopLayer    FP-C0805C-DN-MFG        61,5000      22,2000      270      
+C1_2       1uF                 TopLayer    FP-C0805C-DN-MFG        60,0000      7,7000       270      
+C1_1       1uF                 TopLayer    FP-C0805C-DN-MFG        61,7000      50,2000      270      
