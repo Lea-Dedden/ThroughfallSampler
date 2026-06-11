@@ -1,1 +1,1 @@
-<img alt="https://github.com/Lea-Dedden/ThroughfallSampler/blob/main/electronics/Gerber/2D%20animation%20gerber%20files.PNG" />
+<img alt="grafik" src="https://github.com/Lea-Dedden/ThroughfallSampler/blob/main/electronics/Gerber/2D%20animation%20gerber%20files.PNG" />
